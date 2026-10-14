@@ -55,11 +55,11 @@
                 <Button 
         Text="calcular" 
         BackgroundColor="Green"
-                    Command="{Binding Path= Calcularcommand}"
+                    Command="{Binding Path= CalcularCommand}"
         />
                 <Button 
         Text="limpiar"
-                    Command="{Binding Path=Limpiarcommand}"
+                    Command="{Binding Path=LimpiarCommand}"
         />
             </HorizontalStackLayout>
             <Border 
