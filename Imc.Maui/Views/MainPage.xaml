@@ -59,7 +59,7 @@
         />
                 <Button 
         Text="limpiar"
-                    Command="{Binding Path=LimpiarCommand}"
+                Command="{Binding Path=LimpiarCommand}"
         />
             </HorizontalStackLayout>
             <Border 
